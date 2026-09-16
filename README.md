@@ -3,11 +3,8 @@
 
 **Course:** Internet Data Analysis for Master's Students  
 **Module:** 1, Lab Work 2  
-**Student Name:** [Your Name]  
-**Student ID:** [Your ID]  
-**Date:** [Submission Date]  
-**Instructor:** [Instructor Name]
-
+**Student Name:** [Wai Phone Khant]    
+**Date:** [22.09.2026]  
 ---
 
 ## Abstract
